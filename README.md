@@ -1,2 +1,2 @@
 # CatalogoErciliaPerfumes
-Um catalogo de Perumes
+Um catalogo de Perfumes
